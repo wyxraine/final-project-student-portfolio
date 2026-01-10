@@ -1,5 +1,7 @@
 Laboratory Activity #4: Arduino Serial Connection
+
 Members: Andino Llantos Gomba Ochoa Palomar
+
 Objectives:
 
 * Understand and implement Arduino Serial Connection.
