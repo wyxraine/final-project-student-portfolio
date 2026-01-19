@@ -31,7 +31,7 @@ Tools and Components Used:
 
 Code Description:
 
-Python File: (Leds_Control.py)
+Python File: (Led_Control.py)
 Establishes serial communication with Arduino using pyserial.
 Displays a menu with options: Red ON/OFF, Green ON/OFF, Yellow ON/OFF, All ON, All OFF, Exit.
 Sends the corresponding command to the Arduino based on user input.
