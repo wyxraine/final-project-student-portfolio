@@ -37,7 +37,7 @@ Displays a menu with options: Red ON/OFF, Green ON/OFF, Yellow ON/OFF, All ON, A
 Sends the corresponding command to the Arduino based on user input.
 Reads and displays Arduino’s responses in real-time.
 
-Arduino File: (LedFunctions.h + lab_finals.ino)
+Arduino File: (LedFunctions.h + lab_1_finals.ino)
 LedFunctions.h contains functions to initialize LEDs, toggle individual LEDs, turn all LEDs on/off, and apply LED states.
 Pin definitions: Red → 8, Green → 9, Yellow → 10.
 Boolean variables track the current state of each LED.
